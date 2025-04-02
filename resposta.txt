@@ -1,5 +1,7 @@
 Nome de usuário: luiz
-Senha: luizfel4433u
+Senha: x
 UID:1001(luiz)
 GID Principal:1002(estudantes)
-GECOS:
+GECOS:,,,
+Diretório inicial: /home
+SHELL:/bin/bash
