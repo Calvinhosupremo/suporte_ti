@@ -1,0 +1,5 @@
+Nome de usuário: luiz
+Senha: luizfel4433u
+UID:1001(luiz)
+GID Principal:1002(estudantes)
+GECOS:
